@@ -1,5 +1,5 @@
 # TUGAS-10-PWEB-A
-pada tugas kali ini kita diminta untuk menganalisis studi kasus CRUD pendaftaran siswa
+pada tugas kali ini kita diminta untuk menganalisis studi kasus CRUD **Pendaftaran Siswa Baru**
 
 ## Deskripsi Umum
 Web pendaftaran siswa merupakah sebuah web untuk membantu proses pendaftara calon siswa secara digital dan terintegrasi dengan database. web ini dibangun dengan mennggunakan PHP sebagai backend dan database MySQL sebagai database.
