@@ -56,3 +56,7 @@ sistem akan menampilkan seluruh data siswa yang terdaftar. pada menu ini, admin 
 
 **5. Jika ingin menghapus data maka admin memilih `delete` dalam menu `pendaftar`**
 sistem akan menghapus data dari database
+
+## Hasil Implementasi
+
+[Tugas-9-PWEB-A](https://github.com/notdoppi/TUGAS-9-PWEB-A/blob/main/README.md)
