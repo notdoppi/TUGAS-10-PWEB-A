@@ -35,24 +35,24 @@ admin :
 - `sekolah_asal` = menyimpan sekolah asal siswa
 
 ## Alur Proses Sistem
-1. Admin membuka sistem (web)
+**1. Admin membuka sistem (web)**
 pada tab ini terdapat dua menu utama yaitu:
 - daftar baru
 - pendaftar
 
-2. Admin memilih menu `daftar baru`
+**2. Admin memilih menu `daftar baru`**
 - sistem akan menampilkan form pendaftaran siswa
 - admin mengisi data siswa
 - admin menekan tombol dafta
 - sistem akan menyimpan data ke dalam database
 
-3. Admin membuka menu `pendaftar`
+**3. Admin membuka menu `pendaftar`**
 sistem akan menampilkan seluruh data siswa yang terdaftar. pada menu ini, admin dapat melihat data, mengedit data, dan menghapus data
 
-4. Jika ingin mengupdate data maka admin memilih `edit` dalam menu `pendaftar`
+**4. Jika ingin mengupdate data maka admin memilih `edit` dalam menu `pendaftar`**
 - sistem akan menampilkan data lama dalam form
 - admin melakukan perubahan
 - data baru disimpan ke dalam database dan menggantikan data yang lama
 
-5. Jika ingin menghapus data maka admin memilih `delete` dalam menu `pendaftar`
+**5. Jika ingin menghapus data maka admin memilih `delete` dalam menu `pendaftar`**
 sistem akan menghapus data dari database
